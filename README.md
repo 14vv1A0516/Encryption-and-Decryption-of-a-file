@@ -23,5 +23,7 @@ In "gui_dec.py" file,
 Description 
 
 f12.der contains public key to encrypt key in gui_enc.py's execution
+
 f12.p12 contains private key to decrypt key in gui_dec.py's execution
+
 You can use data.txt file to be encrypted and encrypted.
